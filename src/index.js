@@ -10,7 +10,7 @@ import {
 } from 'react-router-dom';
 import CadastroVideo from './pages/cadastro/Video';
 import ErrorPage from './pages/Error/App';
-import CadastroCategoria from './pages/cadastro/Cadastro';
+import CadastroCategoria from './pages/cadastro/Categoria';
 
 const rootElement = document.getElementById("app");
 
